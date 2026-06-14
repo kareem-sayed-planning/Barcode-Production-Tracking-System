@@ -1,6 +1,8 @@
 # 📟 Barcode Production Tracking System (VBA Data Pipeline)
 
-![Scanner Interface](Screenshot 2026-06-14 184251.png)
+![Body Shop Scanner](Screenshot%202026-06-14%20184251.png)
+
+![Final OK Scanner](Screenshot%202026-06-14%20190315.png)
 
 ## 📝 Overview
 This project serves as the foundational data collection layer for the production management ecosystem. It is an enterprise-grade Excel VBA application deployed across multiple shop floors (Body, Paint, Assembly, Final) to capture real-time vehicle movement using barcode scanners. This system eliminates manual data entry, acting as the primary data feed for the Live Monitoring Dashboard.
@@ -17,4 +19,4 @@ This project serves as the foundational data collection layer for the production
 * **Performance:** Optimized using in-memory Arrays and `Scripting.Dictionary` for high-speed read/write operations.
 
 ---
-*This system represents the Data Collection phase (Phase 1) of the overall Manufacturing Execution process.*# Barcode-Production-Tracking-System
+*This system represents the Data Collection phase (Phase 1) of the overall Manufacturing Execution process.*
